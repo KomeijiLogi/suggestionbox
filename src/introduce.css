@@ -1,0 +1,12 @@
+.introduce{
+    font-size: medium;
+    text-align: left;
+    padding: 1vw;
+}
+.introduce-header{
+    padding: 2vw;
+    color: #0171D2;
+}
+.introduce >p{
+    padding: 2vw;
+}
